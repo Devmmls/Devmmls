@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="<img src="./snake.yml" alt="" />" alt="Snake animation" />
+<img src="./snake.yml" alt="Snake animation" />
 
 ###
